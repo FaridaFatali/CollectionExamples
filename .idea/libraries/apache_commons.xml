@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="apache-commons">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/apache-commons.jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/apache-commons.jar" recursive="false" />
+  </library>
+</component>
